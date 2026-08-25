@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Using C++
+# libdsa
 
 A personal, from-scratch collection of classic data structures and algorithms implemented in modern C++ templates. Every structure and algorithm is written as a standalone, generic, header-only component and paired with a small runnable demo program, making the repository useful both as a learning reference and as a set of drop-in headers.
 
